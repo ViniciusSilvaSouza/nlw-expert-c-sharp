@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography;
-
-namespace RocketseatAuction.API.Entities;
+﻿namespace RocketseatAuction.API.Entities;
 
 public class Auction
 {
@@ -9,6 +7,4 @@ public class Auction
     public DateTime Ends { get; set; }
     public DateTime Starts { get; set; }
     public List<Item> Items { get; set; } = new List<Item>();
-
-
 }
