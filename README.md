@@ -6,9 +6,9 @@ O projeto é uma API back-end em C# com .NET que realiza leilões. Os usuários 
 
 
 ## Tecnologias
-- [.NET 8](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0).
-- [ORM Entity Framework](https://learn.microsoft.com/pt-br/ef/ef6/fundamentals/install).
-- [Bogus for .NET](https://github.com/bchavez/Bogus).
--  [Moq](https://github.com/moq/Moq.AutoMocker).
--  [SQLite](https://www.sqlite.org/index.html).
--  [Swagger](https://swagger.io/).
+- [.NET 8](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0)
+- [ORM Entity Framework](https://learn.microsoft.com/pt-br/ef/ef6/fundamentals/install)
+- [Bogus for .NET](https://github.com/bchavez/Bogus)
+-  [Moq](https://github.com/moq/Moq.AutoMocker)
+-  [SQLite](https://www.sqlite.org/index.html)
+-  [Swagger](https://swagger.io/)
