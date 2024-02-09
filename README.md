@@ -1,5 +1,5 @@
 # Rocketseat Auction
-O projeto é uma API back-end em C# com .NET que realiza leilões. Os usuários autenticados podem fazer ofertas nos items listados em cada leilão.
+O projeto é uma API back-end em C# com .NET que realiza leilões. É possível consultar os leilões ativos e seus respectivos itens. Com usuário autenticado é possível realizar uma oferta no item em leilão.
 ![image](https://github.com/ViniciusSilvaSouza/nlw-expert-c-sharp/assets/15094094/eb986501-072d-453e-9c31-b0ebf7623a39)
 ![image](https://github.com/ViniciusSilvaSouza/nlw-expert-c-sharp/assets/15094094/22d33872-9bbc-4fb9-97ee-7e3a6be8db16)
 
